@@ -108,8 +108,5 @@ public class NewsTitleFragment extends Fragment {
         public int getItemCount() {
             return mNewsList.size();
         }
-
     }
-
-
 }
